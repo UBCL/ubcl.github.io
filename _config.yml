@@ -1,5 +1,5 @@
 # title: Leap Day theme
- logo: UBCL-Logo 2.png
+# logo: UBCL-Logo 2.png
 # description: Leap Day is a theme for GitHub Pages.
 # show_downloads: true
 # google_analytics:
@@ -19,12 +19,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
+logo                     : UBCL-Logo 2.png
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
