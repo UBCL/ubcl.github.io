@@ -6,6 +6,7 @@
 # theme: jekyll-theme-leap-day
 # remote_theme: pages-themes/minimal@v0.2.0
 plugins: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
